@@ -939,7 +939,7 @@ Use Carbaryl for aphids and Fungicides for rust and blight.
 • Average yield: 1.5–2 tons per acre
 • With good practices, yields can reach 3 tons/acre.`,
 
-"slit soil-tomatoes":`
+"silt soil-tomatoes":`
 Here is the in detail explanation of tomatoes in slit soil
 📍 1. Land Requirement
 • Minimum Land: 1 acre (~4047 m²) for moderate yield.
@@ -997,7 +997,7 @@ Use Imidacloprid for aphids, Carbendazim for fungal issues, and Pyrethrin for to
 • Average yield: 20–25 tons per acre
 • With good care, yields can reach 30 tons/acre.`,
 
-"slit soil-onions":`
+"silt soil-onions":`
 Here is the in detail explanation of onions in slit soil
 📍 1. Land Requirement
 • Minimum Land: 1 acre (~4047 m²)
@@ -1053,7 +1053,7 @@ Use Imidacloprid for aphids, Thiamethoxam for root maggots, and Copper oxychlori
 • Average yield: 12–15 tons per acre
 • With proper management, yields can reach 18 tons/acre.`,
 
-"slit soil-sugarcane":`
+"silt soil-sugarcane":`
 Here is the in detail explanation of sugarcane in slit soil
 📍 1. Land Requirement
 • Minimum Land: 1 acre (~4047 m²)
@@ -1107,7 +1107,7 @@ Use Chlorpyrifos or Fipronil for white grubs and Mancozeb for fungal diseases li
 • Average yield: 50–60 tons per acre
 • With proper care, yields can reach 70 tons/acre.`,
 
-"slit soil-maize":`
+"silt soil-maize":`
 Here is the in detail explanation of maize in slit soil
 📍 1. Land Requirement
 • Minimum Land: 1 acre (~4047 m²)
