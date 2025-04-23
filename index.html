@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Terrascan</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="caption-container">
+        <h2 class="caption-title">Curious to know your soil's secrets?</h2>
+        <p class="caption-subtext">Enter a few details and let <strong>TerraScan</strong> tell you more!</p>
+    </div>
+
+    <div class="header">Terrascan</div>
+
+    <div class="input-container">
+        <input type="number" placeholder="pH value" id="pH" />
+        <input type="number" placeholder="Moisture (%)" id="moisture" />
+        <input type="number" placeholder="Temperature (°C)" id="Temperature" />
+        <input type="number" placeholder="Nitrogen (N)" id="Nitrogen" />
+        <input type="number" placeholder="Potassium (K)" id="Potassium" />
+        <input type="number" placeholder="Phosphorus (P)" id="Phosphorus" />
+    </div>
+
+
+    <button onclick="detectSoilType()">Detect Soil Type</button>
+
+    <p id="result"></p>
+
+    <script src="index.js"></script>
+
+    <div class="terrabot-wrapper">
+      <h1 class="main-heading">TerraBot</h1>
+      <p class="subheading">Meet your intelligent farming companion!</p>
+      <p class="description">
+        Curious about what grows best in your soil?<br />
+        🌱 Pick a soil type, choose a crop — and let <strong>TerraBot</strong> show you detailed insights tailored just for you.
+      </p>
+    
+      <div id="chatBox" class="chatbox"></div>
+    </div>
+    
+</body>
+
+</html>
